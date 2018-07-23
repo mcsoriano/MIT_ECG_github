@@ -14,6 +14,7 @@ Echo State Network - Reservoir Computing Project to classify heartbeat arrhythmi
  http://academy.beecardia.com/physiobank/database/mitdb
  
  Preprocessed databased arranged in simple .txt files
+ Files MIT/leadA.zip and MIT/leadB.zip need to be unzipped before use
 
  Target SVE class
 
